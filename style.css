@@ -19,9 +19,7 @@ body{
    background: -webkit-linear-gradient(top,  #63b6db 0%,#309dcf 100%); /* Chrome10-25,Safari5.1-6 */
    background: linear-gradient(to bottom,  #63b6db 0%,#309dcf 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#63b6db', endColorstr='#309dcf',GradientType=0 ); /* IE6-9 */
-   min-height:600px;
    min-width:300px;
-   max-height:600px;
    max-width:400px;
    margin-top:20px;
    margin-left:auto;
