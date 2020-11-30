@@ -10,6 +10,7 @@ body{
    background: linear-gradient(to bottom,  #63b6db 0%,#309dcf 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#63b6db', endColorstr='#309dcf',GradientType=0 ); /* IE6-9 */
    background-attachment:fixed;
+   height:500px;
 }
 
 .data{
